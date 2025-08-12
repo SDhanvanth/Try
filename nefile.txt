@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New project
+=======
+Hello 
+>>>>>>> 5eb89643b423f3e61e1ec9cb19c92791ad8265e3
